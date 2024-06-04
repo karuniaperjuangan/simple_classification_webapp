@@ -1,7 +1,7 @@
-fastapi[all]==0.111.0
-uvicorn==0.21.1
-numpy==1.26.4
-onnxruntime==1.14.1
-pydantic==2.6.4
-pillow==9.5.0
-onnx==1.14.1
+fastapi[all]==0.111.*
+uvicorn==0.21.*
+numpy==1.26.*
+onnxruntime==1.14.*
+pydantic==2.6.*
+pillow==9.5.*
+onnx==1.14.*
